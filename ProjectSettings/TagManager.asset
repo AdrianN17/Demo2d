@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Coin
+  - Enemigo
+  - Diamante
+  - Vida
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemigo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3018562725
+    locked: 0
+  - name: Tile
+    uniqueID: 686772869
+    locked: 0
+  - name: Item
+    uniqueID: 2546048927
+    locked: 0
+  - name: Enemigo
+    uniqueID: 424556207
+    locked: 0
+  - name: Player
+    uniqueID: 2383555127
+    locked: 0
