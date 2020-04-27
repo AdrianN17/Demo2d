@@ -79,7 +79,7 @@ public class Personaje : MonoBehaviour
     {
         float dt = Time.deltaTime;
 
-        if(saltar)
+        if(saltar && vida>0)
         {
 
             rb.AddForce(Vector2.up * salto);

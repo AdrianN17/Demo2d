@@ -43,8 +43,8 @@ public class Enemigo1 : MonoBehaviour
 
         rb.AddForce(new Vector2(direccion, 0) * dt * velocidad);
 
-        //Debug.DrawRay(col.bounds.center, vecSuelo, Color.red);
-        //Debug.DrawRay(col.bounds.center, vecPared, Color.red);
+        Debug.DrawRay(col.bounds.center, vecSuelo, Color.red);
+        Debug.DrawRay(col.bounds.center, vecPared, Color.red);
     }
 
     public void verificarPared()
